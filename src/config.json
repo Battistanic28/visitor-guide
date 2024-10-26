@@ -1,0 +1,238 @@
+
+{
+    "restaurants": [
+        {
+            "name": "Sherpa House Restaurant",
+            "description": "Himalayan",
+            "price": "$$",
+            "emoji": "🏔️🍛",
+            "type": "restaurants"
+        },
+        {
+            "name": "Avanti",
+            "description": "Food hall",
+            "price": "$$",
+            "emoji": "🍽️🏢",
+            "type": "restaurants"
+        },
+        {
+            "name": "Rosetta Hall",
+            "description": "Food Hall",
+            "price": "$$",
+            "emoji": "🍲🏬",
+            "type": "restaurants"
+        },
+        {
+            "name": "Le Frigo",
+            "description": "French deli/cafe",
+            "price": "$$",
+            "emoji": "🥐🇫🇷",
+            "type": "restaurants"
+        },
+        {
+            "name": "Dushanbe Tea House",
+            "description": "High tea, brunch",
+            "price": "$$",
+            "emoji": "☕🍰",
+            "type": "restaurants"
+        },
+        {
+            "name": "Lucky’s Cafe",
+            "description": "Diner, lunch, brunch",
+            "price": "$$",
+            "emoji": "🍳🥓",
+            "type": "restaurants"
+        },
+        {
+            "name": "River and Woods",
+            "description": "Upscale American",
+            "price": "$$$$",
+            "emoji": "🇺🇸🍽️",
+            "type": "restaurants"
+        },
+        {
+            "name": "Blackbelly",
+            "description": "Farm to table",
+            "price": "$$$$$",
+            "emoji": "🌾🍴",
+            "type": "restaurants"
+        },
+        {
+            "name": "Little Tibet",
+            "description": "Himalayan, takeout",
+            "price": "$",
+            "emoji": "🏔️🥡",
+            "type": "restaurants"
+        },
+        {
+            "name": "Buddha Thai",
+            "description": "Thai, takeout",
+            "price": "$",
+            "emoji": "🇹🇭🥡",
+            "type": "restaurants"
+        },
+        {
+            "name": "Verde Mexican Restaurant",
+            "description": "Mexican",
+            "price": "$$",
+            "emoji": "🌮🇲🇽",
+            "type": "restaurants"
+        },
+        {
+            "name": "Bellota",
+            "description": "Mexican",
+            "price": "$$$",
+            "emoji": "🌮🥂",
+            "type": "restaurants"
+        },
+        {
+            "name": "Santo",
+            "description": "Southwestern",
+            "price": "$$$",
+            "emoji": "🌶️🇺🇸",
+            "type": "restaurants"
+        },
+        {
+            "name": "Green Cube Taco Truck",
+            "description": "Food truck, Mexican",
+            "price": "$",
+            "emoji": "🚚🌮",
+            "type": "restaurants"
+        },
+        {
+            "name": "Audrey Jane’s Pizza Garage",
+            "description": "Pizza, slices",
+            "price": "$$$",
+            "emoji": "🍕🚗",
+            "type": "restaurants"
+        },
+        {
+            "name": "Urban Field Pizza and Market",
+            "description": "Pizza",
+            "price": "$$",
+            "emoji": "🍕🏙️",
+            "type": "restaurants"
+        },
+        {
+            "name": "Shamane’s Bakery",
+            "description": "Bakery, breakfast",
+            "price": "$$",
+            "emoji": "🥖🍩",
+            "type": "restaurants"
+        },
+        {
+            "name": "Lucky’s Bakehouse",
+            "description": "Bakery, breakfast",
+            "price": "$$",
+            "emoji": "🍞🍪",
+            "type": "restaurants"
+        },
+        {
+            "name": "Moxie Bread Co.",
+            "description": "Bakery, bread, breakfast",
+            "price": "$$",
+            "emoji": "🥖🥐",
+            "type": "restaurants"
+        },
+        {
+            "name": "Sushi Zanmai",
+            "description": "Sushi",
+            "price": "$$$",
+            "emoji": "🍣🎌",
+            "type": "restaurants"
+        },
+        {
+            "name": "AOI Sushi & Izakaya",
+            "description": "Sushi",
+            "price": "$$$$",
+            "emoji": "🍣🍶",
+            "type": "restaurants"
+        },
+        {
+            "name": "Rincon Argentino",
+            "description": "Empanadas",
+            "price": "$$",
+            "emoji": "🥟🇦🇷",
+            "type": "restaurants"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "Jungle Tiki Bar",
+            "description": "Cocktails, small bites",
+            "price": "$$$",
+            "emoji": "🌴🍹",
+            "type": "drinks"
+        },
+        {
+            "name": "The Kitchen Upstairs",
+            "description": "Cocktails, small bites",
+            "price": "$$$$",
+            "emoji": "🍸✨",
+            "type": "drinks"
+        },
+        {
+            "name": "License #1",
+            "description": "Cocktails",
+            "price": "$$",
+            "emoji": "🍸🍷",
+            "type": "drinks"
+        },
+        {
+            "name": "The Outback",
+            "description": "Dive",
+            "price": "$",
+            "emoji": "🍺🍂",
+            "type": "drinks"
+        },
+        {
+            "name": "Sundown Saloon",
+            "description": "Dive, college bar",
+            "price": "$",
+            "emoji": "🌅🍻",
+            "type": "drinks"
+        },
+        {
+            "name": "The Attic",
+            "description": "Dive, college bar",
+            "price": "$",
+            "emoji": "🎒🍻",
+            "type": "drinks"
+        },
+        {
+            "name": "The Pub",
+            "description": "Dive, college bar",
+            "price": "$",
+            "emoji": "🍺🏫",
+            "type": "drinks"
+        },
+        {
+            "name": "The Hungry Toad",
+            "description": "English pub",
+            "price": "$",
+            "emoji": "🐸🍻",
+            "type": "drinks"
+        },
+        {
+            "name": "Bohemian Biergarten",
+            "description": "Bavarian pub",
+            "price": "$$",
+            "emoji": "🍻🇩🇪",
+            "type": "drinks"
+        },
+        {
+            "name": "Rayback Collective",
+            "description": "Beer garden, food trucks",
+            "price": "$",
+            "emoji": "🌳🚚",
+            "type": "drinks"
+        },
+        {
+            "name": "Avery Brewing Company",
+            "description": "Brewer",
+            "price": "",
+            "emoji": "🍺🏭",
+            "type": "drinks"
+        }
+    ]
+}
